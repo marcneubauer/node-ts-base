@@ -12,6 +12,7 @@ const customRules = {
     proseWrap: 'always',
     trailingComma: 'all',
     semi: false,
+    
 }
 
 module.exports = {
